@@ -28,6 +28,10 @@ h1Year.textContent=age
 var h1Month=document.getElementById('h1Months')
 h1Month.textContent=monthDifference
 
+ 
+var h1Days=document.getElementById('h1Days')
+h1Days.textContent=dayDifference
+
 
 
 }
