@@ -20,4 +20,5 @@ var birthYear= birthDate.getFullYear();
    console.log(monthDifference)
     const dayDifference = today.getDate() - birthDate.getDate();
     console.log(dayDifference)
+    if()
 }
