@@ -24,6 +24,10 @@ function ageCalculate() {
 var h1Year=document.getElementById('h1Year')
 h1Year.textContent=age
 
+ 
+var h1Month=document.getElementById('h1Months')
+h1Month.textContent=monthDifference
+
 
 
 }
